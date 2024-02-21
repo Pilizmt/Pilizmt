@@ -2,7 +2,7 @@
 
 ### ¡Hola! 👋 Soy Pilar
 
-![Image DataScientist](https://www.canva.com/design/DAF9dSO63qM/sixsEiJRN87fgiZRf6ipKg/view?utm_content=DAF9dSO63qM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![Image DataScientist]()
 
 ¡Bienvenido a mi rincón creativo en GitHub!
 
