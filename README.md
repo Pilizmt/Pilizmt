@@ -1,20 +1,18 @@
+### ¡Hello! 👋 I'm Pilar
 
+![Profile Image](https://github.com/Pilizmt/Pilizmt/assets/142118783/732ea4cb-d345-4382-9ede-af5920a5bf69)
 
-### ¡Hola! 👋 Soy Pilar
+Welcome to my creative corner on GitHub!
 
-![cee8f1e4-da89-4cb4-81cc-dba2d74c1da3](https://github.com/Pilizmt/Pilizmt/assets/142118783/732ea4cb-d345-4382-9ede-af5920a5bf69)
+I'm a passionate Data Scientist and Machine Learning 🧙‍♂️ enthusiast dedicated to creating innovative solutions through data analysis and machine learning model development.
 
-¡Bienvenido a mi rincón creativo en GitHub!
+- 🔭 Currently working on data analysis projects to identify patterns and trends.
+- 🌱 Always learning about new techniques and tools in data science and machine learning.
+- 👯 Interested in collaborating on data analysis, artificial intelligence, and process optimization projects.
+- 💬 Ask me about machine learning, data visualization, and data science in general.
+- 📫 You can reach me on [LinkedIn](www.linkedin.com/in/pilarzarcomata) or via email at [pilarzarcomata@gmail.com](mailto:pilarzarcomata@gmail.com).
 
-Soy una Data Scientist y Machine Learning 🧙‍♂️ apasionada por crear soluciones innovadoras mediante el análisis de datos y el desarrollo de modelos de machine learning.
-
-- 🔭 Trabajando en proyectos de análisis de datos para identificar patrones y tendencias.
-- 🌱 Aprendiendo constantemente sobre técnicas y herramientas en ciencia de datos y machine learning.
-- 👯 Interesada en colaborar en proyectos de análisis de datos, inteligencia artificial y optimización de procesos.
-- 💬 Pregúntame sobre machine learning, visualización de datos y ciencia de datos en general.
-- 📫 Contáctame en [LinkedIn](www.linkedin.com/in/pilarzarcomata) o por correo electrónico: [pilarzarcomata@gmail.com].
-
-### Tecnologías que Utilizo 🚀
+### Technologies I Use 🚀
 
 - Python 🐍
 - TensorFlow ⚙️
@@ -24,5 +22,21 @@ Soy una Data Scientist y Machine Learning 🧙‍♂️ apasionada por crear sol
 - Git 🌳
 - Docker 🐳
   
-Gracias por visitar mi perfil. ¡Espero colaborar contigo en futuros proyectos!
+Thank you for visiting my profile. I look forward to collaborating with you on future projects!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
