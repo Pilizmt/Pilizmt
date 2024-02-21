@@ -20,7 +20,6 @@ I'm a passionate Data Scientist and Machine Learning 🧙‍♂️ enthusiast de
 - SQL 🗃️
 - Jupyter Notebooks 📓
 - Git 🌳
-- Docker 🐳
   
 Thank you for visiting my profile. I look forward to collaborating with you on future projects!
 
