@@ -1,33 +1,48 @@
-### ¡Hello! 👋 I'm Pilar
+### 👋 ¡Hello there! I'm Pilar  
 
 <img src="https://github.com/Pilizmt/Pilizmt/assets/142118783/732ea4cb-d345-4382-9ede-af5920a5bf69" alt="Profile Image" width="600">
 
-Welcome to my creative corner on GitHub!
+Welcome to my data-driven creative space on GitHub! 🚀  
 
-I'm a passionate Data Scientist and Machine Learning 🧙‍♂️ enthusiast dedicated to creating innovative solutions through data analysis and machine learning model development.
+I'm a **Data Scientist & Machine Learning Engineer** passionate about turning data into intelligent, actionable solutions.  
+I enjoy exploring patterns, building predictive models, and designing efficient data pipelines that bring ideas to life.  
 
-- 🔭 Currently working on data analysis projects to identify patterns and trends.
-- 🌱 Always learning about new techniques and tools in data science and machine learning.
-- 👯 Interested in collaborating on data analysis, artificial intelligence, and process optimization projects.
-- 💬 Ask me about machine learning, data visualization, and data science in general.
-- 📫 You can reach me on [LinkedIn](www.linkedin.com/in/pilarzarcomata) or via email at [pilarzarcomata@gmail.com](mailto:pilarzarcomata@gmail.com).
+💡 *Curiosity and creativity fuel everything I build.*  
 
-### Technologies I Use 🚀
+---
 
-- Python 🐍
-- TensorFlow ⚙️
-- scikit-learn 📊
-- SQL 🗃️
-- Jupyter Notebooks 📓
-- Git 🌳
-  
-Thank you for visiting my profile. I look forward to collaborating with you on future projects!
+### 🔍 What I'm Working On  
+- Analyzing data to uncover insights and improve decision-making.  
+- Developing and optimizing **Machine Learning** models.  
+- Constantly learning new **AI tools and techniques** to stay ahead.  
 
+---
 
+### 🤝 Let's Collaborate  
+I'm open to teamwork and knowledge sharing!  
+If you’re working on projects related to:  
+- Data Science or ML model development  
+- AI for business intelligence  
+- Process automation or optimization  
 
+…then let’s connect and create something great together.  
 
+---
 
+### 🧠 Tech Stack  
+- **Languages:** Python 🐍, SQL 🗃️  
+- **Libraries & Frameworks:** TensorFlow ⚙️, scikit-learn 📊  
+- **Tools:** Jupyter Notebooks 📓, Git 🌳  
 
+---
+
+### 📫 Get in Touch  
+- [LinkedIn](https://www.linkedin.com/in/pilarzarcomata)  
+- [Email](mailto:pilarzarcomata@gmail.com)
+
+---
+
+✨ *"Data is the raw material of innovation — I love shaping it into stories that matter."*  
 
 
 
