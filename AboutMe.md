@@ -1,6 +1,8 @@
 ### 👋 ¡Hello there! I'm Pilar  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/23dd5b2a-8622-4bc4-abfb-2905a8d89b84" alt="Profile Image" width="400">
+</p>
 
-<img src="https://github.com/Pilizmt/Pilizmt/assets/142118783/732ea4cb-d345-4382-9ede-af5920a5bf69" alt="Profile Image" width="600">
 
 Welcome to my data-driven creative space on GitHub! 🚀  
 
